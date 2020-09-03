@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1599053749 source:c:\users\cva\desktop\prog-lab\funciones\clase 4 bibliotecas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1598885647 source:c:\users\cva\desktop\prog-lab\ejercicio clase 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
